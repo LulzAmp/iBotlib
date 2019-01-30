@@ -10,7 +10,7 @@ $ git clone https://github.com/LulzAmp/iBotlib.git
 
 ## Initialisation
 Well, if you look at the screenshot below. Also,
-![Bot initialisation](img/Example.png)\
+![Bot initialisation](img/Example.png)  
 Save this file as bot.php.
 
 ## Usage
@@ -35,5 +35,5 @@ This really all depends on the prefix you decided to choose at the initialisatio
 * **@leavechans** - makes the bot leave all channels specified in [this array](https://github.com/LulzAmp/iBotlib/iBot.class.php#L10)
 * **@iquit** - makes the bot quit IRC
 
-*arguments between [ and ] are optional\
+*arguments between [ and ] are optional  
 That's all you need to know, have fun!

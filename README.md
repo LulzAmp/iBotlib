@@ -30,8 +30,8 @@ This really all depends on the prefix you decided to choose at the initialisatio
 * **@iddos** < method > < ip > < port > < time > - launches a DoS attack
 * **@ijoin** < chan > [< password >] - makes the bot join a specific channel
 * **@ileave** < chan > - makes the bot leave a specific channel
-* **@joinchans** - makes the bot join all channels specified in [this array](https://github.com/LulzAmp/iBotlib/iBot.class.php#L10)
-* **@leavechans** - makes the bot leave all channels specified in [this array](https://github.com/LulzAmp/iBotlib/iBot.class.php#L10)
+* **@joinchans** - makes the bot join all channels specified in [this array](https://github.com/LulzAmp/iBotlib/blob/master/iBot.class.php#L10)
+* **@leavechans** - makes the bot leave all channels specified in [this array](https://github.com/LulzAmp/iBotlib/blob/master/iBot.class.php#L10)
 * **@iquit** - makes the bot quit IRC
 
 *arguments between [ and ] are optional  

@@ -9,7 +9,7 @@ $ git clone https://github.com/LulzAmp/iBotlib.git
 
 
 ## Initialisation
-Well, if you look at the screenshot below. Also,
+Well, if you look at the screenshot below, it all speaks for itself.
 ![Bot initialisation](img/Example.png)  
 Save this file as bot.php.
 

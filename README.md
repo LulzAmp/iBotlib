@@ -14,15 +14,14 @@ Well, if you look at the screenshot below. Also,
 Save this file as bot.php.
 
 ## Usage
-**Make sure you have got _PHP_ installed.**
+**Make sure you have got _PHP_ installed.**  
 `
 $ php bot.php
-`
-or
+`  
+or  
 `
 $ php.exe bot.php
-`
-
+`  
 to start the bot.
 
 ## Commands

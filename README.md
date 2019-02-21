@@ -20,7 +20,7 @@ $ php bot.php
 `  
 or  
 `
-> php.exe bot.php
+$ php.exe bot.php
 `  
 to start the bot.
 

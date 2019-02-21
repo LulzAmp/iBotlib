@@ -34,5 +34,5 @@ This really all depends on the prefix you decided to choose at the initialisatio
 * **@leavechans** - makes the bot leave all channels specified in [this array](https://github.com/LulzAmp/iBotlib/blob/master/iBot.class.php#L10-L13)
 * **@iquit** - makes the bot quit IRC
 
-*arguments between [] are optional  
+*arguments between [] are optional
 That's all you need to know, have fun!
